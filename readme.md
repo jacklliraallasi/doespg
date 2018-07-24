@@ -1,3 +1,3 @@
-## Escuela de Posgrado
+## ESPG
 
 Aplicativo Desarrollado por el Sr. Jackson Lira
